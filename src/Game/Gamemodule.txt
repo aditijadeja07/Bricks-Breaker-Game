@@ -1,0 +1,1 @@
+Game is simple! You have to break the bricks through ball by given paddle. You have left and right key to move the paddle.if you fail to bounce the ball with paddle, ball will fell down and you will lose the game ! Wish you Good luck!
